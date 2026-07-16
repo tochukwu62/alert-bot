@@ -1,3 +1,5 @@
+process.env.TZ = 'Africa/Lagos';  // Set to Nigeria time
+
 const botToken = process.env.BOT_TOKEN;
 const chatId = process.env.CHAT_ID;
 const tonApiKey = process.env.TON_API_KEY;
