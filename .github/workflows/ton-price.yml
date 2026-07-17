@@ -1,4 +1,4 @@
-name: Alert Bot
+name: TON Price
 on:
   schedule:
     - cron: '* * * * *'
